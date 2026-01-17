@@ -1,0 +1,5 @@
+[
+  { "name": "Network Analyzer", "desc": "Scan and monitor real-time traffic.", "link": "https://github.com/example/network-tool" },
+  { "name": "Spy Detector", "desc": "Detect hidden surveillance devices.", "link": "https://github.com/example/spy-detector" },
+  { "name": "Encryption Toolkit", "desc": "Protect your data with powerful encryption.", "link": "https://github.com/example/encryption" }
+]
